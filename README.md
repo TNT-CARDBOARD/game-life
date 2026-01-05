@@ -7,3 +7,4 @@ cl /std:c++20 /O2 /EHsc /LD necrosphere.cpp
 python nexus.py
 
 [![Watch the simulation](https://img.youtube.com/vi/dR1GiHzymKc/maxresdefault.jpg)](https://youtu.be/dR1GiHzymKc)
+https://youtu.be/dR1GiHzymKc
